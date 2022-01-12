@@ -1,0 +1,11 @@
+/* Colour */
+#app-mount .spoilerText-27bIiA {
+    background-color: var(--background-light-alt);
+}
+
+/* Reveal on hover */
+.spoilerText-27bIiA.hidden-3B-Rum:hover .inlineContent-2YnoDy {
+        opacity: 1;
+        border-radius: 3px;
+        background-color: var(--background-alt);
+}

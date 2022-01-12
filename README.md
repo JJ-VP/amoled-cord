@@ -5,25 +5,37 @@ A simple, no-bullshit AMOLED theme that's nice on your eyes. Lights out baby!
 
 ![preview](https://raw.githubusercontent.com/LuckFire/amoled-cord/main/assets/readme/main-preview.png)
 
+# Fork info
+This fork makes minor changes to the great work of [Luckfire](https://github.com/LuckFire)<br>
+The changes this fork makes are the following:
+- Minimized member list (expand list on hover)
+- Modernised user popout
+- Coloured windows buttons
+- Edit time
+- Spoiler preview
+- Smaller code blocks
+- *More to come*
+
 ## Installation
 For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, head over to your **Themes folder -> open a terminal of choice**, and paste / enter the following:
 ```
-git clone https://github.com/LuckFire/amoled-cord
+git clone https://github.com/JJ-VP/amoled-cord
 ```
 
 **[BetterDiscord](https://betterdiscord.app/)**
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
-- [Direct Download](https://github.com/LuckFire/amoled-cord/releases/download/temp-bd-download/AMOLED-Cord.theme.css) <!-- temporary direct download -->
-- [View Source](https://luckfire.github.io/amoled-cord/src/support/compiled.css)
+- [Direct Download](https://github.com/JJ-VP/amoled-cord/releases/download/temp-bd-download/AMOLED-Cord.theme.css) <!-- temporary direct download -->
+- [View Source](https://jj-vp.github.io/amoled-cord/src/support/compiled.css)
 
 **Stylus**
 1. Make sure you have the Stylus browser extension installed.
     - **[Chrome Webstore](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)**
     - **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)**
-2. After installing, head over to [this link](https://luckfire.github.io/amoled-cord/src/support/AMOLED-Cord.user.css).
+2. After installing, head over to [this link](https://jj-vp.github.io/amoled-cord/src/support/AMOLED-Cord.user.css).
 3. Press the "Install Style" button.
 
 # Credits
+- **[Luckfire](https://github.com/LuckFire)** for [AMOLED-cord](https://github.com/LuckFire/amoled-cord)
 - **[NYRI4](https://github.com/NYRI4/Discolored)** for [Discolored](https://github.com/NYRI4/Discolored).
 - **[Snapperito](https://github.com/Snapperito/)** for [Settings Icons](https://github.com/snappercord/Settings-Icons).
 - File structuring ideas from **[Slate](https://github.com/DiscordStyles/Slate)** and **[Nebula](https://github.com/Loremly/Nebula)**.
