@@ -10,11 +10,7 @@ This fork makes minor changes to the great work of [Luckfire](https://github.com
 The changes this fork makes are the following:
 - Minimized member list (expand list on hover)
 - Modernised user popout
-- Coloured windows buttons
-- Edit time
-- Spoiler preview
-- Smaller code blocks
-- *More to come*
+- Support for Kernel via the PC-Compat theme format
 
 ## Installation
 For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, head over to your **Themes folder -> open a terminal of choice**, and paste / enter the following:
